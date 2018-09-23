@@ -1,3 +1,9 @@
+/*
+* Created by: Ryan Alcorn
+* Description: This file allows the user to enter numbers into a
+* vector and it finds the largest number, smallest number, and sum of all the numbers.
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

@@ -1,3 +1,9 @@
+/*
+* Created by: Ryan Alcorn
+* Description: This file allows the user to navigate a maze
+* using symbols chosen by the user.
+*/
+
 #include <iostream>
 #include <array>
 #include <algorithm>
